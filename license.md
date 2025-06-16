@@ -11,4 +11,4 @@ Attribution — You must give appropriate credit , provide a link to the license
 NonCommercial — You may not use the material for commercial purposes.
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-**NonCommercial includes selling copies or derivatives of these designs anywhere online. Full license information is available at the link in the second line of this file. Please contact me if you'd like to discuss commercial use.**
+**Commercial use would include selling these designs or derivatives of them anywhere and is not permitted under this license. Full license information is available at the link in the second line of this file. Please contact me if you'd like to discuss commercial use.**
