@@ -24,7 +24,7 @@ The ports have a really satisfying click! If you need a fidget toy, the single p
 ## License - no commercial use
 Please be sure to read the license file. You may not sell these files (and any derivatives)!
 
-## Buy me a coffee (OK, really it's a beer)
+## Buy me a coffee (OK, it's really a beer)
 If you're interested in buying me a beer, you can use the link below. Please don't put in more than $5 - I'm just doing this for fun.
 
 [!["Buy Me A Coffee"](./pictures/buymeabeer.png)](https://coff.ee/blackmagic1804)
